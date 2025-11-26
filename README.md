@@ -1,6 +1,6 @@
 """
 ================================================================================
-📜 BÁO CÁO THỰC HIỆN LAB 5: MÔ HÌNH RNN CHO NHẬN DẠNG THỰC THỂ TÊN (NER)
+BÁO CÁO THỰC HIỆN LAB 5: MÔ HÌNH RNN CHO NHẬN DẠNG THỰC THỂ TÊN (NER)
 ================================================================================
 
 1. CÁC BƯỚC TRIỂN KHAI (Implementation Steps)
